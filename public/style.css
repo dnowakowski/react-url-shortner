@@ -1,0 +1,23 @@
+body {
+  background-color: #fefedd;
+  margin: auto;
+  min-height: 100vh;
+}
+
+.app__main {
+  margin: auto;
+  min-height: 50px;
+}
+
+form > button {
+  margin: 5px !important;
+}
+
+input {
+  margin: 5px;
+}
+
+.app__container {
+  min-height: 100vh;
+  display: flex;
+}
